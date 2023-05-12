@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Game Code and Design/Epic Games/AstroFunk_Az_Ver0_1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/Game Code and Design/Epic Games/AstroFunk_Az_Ver0_1/Content/FirstPerson/Blueprints/MainWdiget.uasset",
+				"E:/Game Code and Design/Epic Games/AstroFunk_Az_Ver0_1/Content/FirstPerson/Blueprints/MainHUD_Class.uasset",
+				"E:/Game Code and Design/Epic Games/AstroFunk_Az_Ver0_1/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"E:/Game Code and Design/Epic Games/AstroFunk_Az_Ver0_1/Content/FirstPerson/Blueprints/GameplayAbilities/GameplayAbility.uasset",
+				"E:/Game Code and Design/Epic Games/AstroFunk_Az_Ver0_1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Game Code and Design/Epic Games/AstroFunk_Az_Ver0_1/Content/FirstPerson/Blueprints/GameplayAbilities/GameplayAbility_Augmentations.uasset",
+				"E:/Game Code and Design/Epic Games/AstroFunk_Az_Ver0_1/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"E:/Game Code and Design/Epic Games/AstroFunk_Az_Ver0_1/Content/FirstPerson/Blueprints/GameplayAbilities/GameplayAbilityType.uasset",
+				"E:/Game Code and Design/Epic Games/AstroFunk_Az_Ver0_1/Content/FirstPerson/Blueprints/GameplayAbilities/AugmentationAbilityType.uasset",
+				"E:/Game Code and Design/Epic Games/AstroFunk_Az_Ver0_1/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+			]
+		}
+	]
+}
