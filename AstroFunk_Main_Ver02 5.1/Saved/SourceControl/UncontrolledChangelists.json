@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/Dialogue/NPC.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/Dialogue/BPI_Dialogue.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/AstroFunk_FirstPersonBP/Ue4ASP_Character.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/XP/8G28GVNIHRMJ4LJ3INMIKA.uasset"
+			]
+		}
+	]
+}
