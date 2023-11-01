@@ -9,6 +9,18 @@
 				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/Dialogue/NPC.uasset",
 				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/Dialogue/BPI_Dialogue.uasset",
 				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/AstroFunk_FirstPersonBP/Ue4ASP_Character.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/Enemies/Blueprints/BB_Enemy.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/Enemies/Mannequins/BP_Enemy_Anim.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/Enemies/Mannequins/Animations/BP_Enemy_Anim.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/Enemies/Mannequins/Animations/ABP_Manny.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/Enemies/Mannequins/Animations/ABP_Quinn.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/Enemies/Blueprints/BP_Enemy_Base.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/Enemies/Mannequins/Animations/ABP_Enemy_Anim.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/Enemies/Mannequins/Meshes/SK_Mannequin.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ES/0QBCFJHNMDSK274342OIJL.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/StarterContent/Materials/M_Concrete_Tiles.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset",
+				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset",
 				"E:/Repos/AstroFunk/AstroFunk_Main_Ver02 5.1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/XP/8G28GVNIHRMJ4LJ3INMIKA.uasset"
 			]
 		}
